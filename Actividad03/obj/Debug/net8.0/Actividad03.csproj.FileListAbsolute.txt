@@ -1,0 +1,14 @@
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\bin\Debug\net8.0\Actividad03.exe
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\bin\Debug\net8.0\Actividad03.deps.json
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\bin\Debug\net8.0\Actividad03.runtimeconfig.json
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\bin\Debug\net8.0\Actividad03.dll
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\bin\Debug\net8.0\Actividad03.pdb
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\Actividad03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\Actividad03.AssemblyInfoInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\Actividad03.AssemblyInfo.cs
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\Actividad03.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\Actividad03.dll
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\refint\Actividad03.dll
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\Actividad03.pdb
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\Actividad03.genruntimeconfig.cache
+D:\Users\Maximiliano Romero\Escritorio\Actividad03\Actividad03\obj\Debug\net8.0\ref\Actividad03.dll
